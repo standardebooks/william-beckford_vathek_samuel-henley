@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-beckford/vathek/samuel-henley</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-07-26T16:50:31Z</dc:date>
+		<meta property="dcterms:modified">2022-07-26T16:50:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,15 +48,17 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008107185</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A powerful caliph embarks on a quest to harness the powers of darkness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The titular Vathek is a powerful caliph who, though intelligent and capable, has a tendency to indulge in sensuality. A mysterious traveler arrives in his kingdom and mesmerizes Vathek with a promise of dark powers and hedonism beyond imagination. Vathek becomes obsessed with the supernatural possibilities, and, goaded on by his power-hungry mother, embarks on a journey of blasphemy and debauchery.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Vathek&lt;/i&gt; is one of the best-known Gothic novels, frequently referenced in literature of the era and beyond. &lt;a href="https://standardebooks.org/ebooks/william-beckford"&gt;Beckford&lt;/a&gt;, an English novelist, wrote it in French over the course of just several days at the age of twenty-one, after having hosted a three-day-long party in a lavish Orientalist style. European culture at the time was delighting in Orientalism, and Beckford capitalized on this by merging a fashionable Gothic narrative with a lush Orientalist setting. The novel’s emphasis on the supernatural and on the horror of ghosts, ghouls, efreets, and djinns, was something still new to many contemporary readers; and couching a familiar morality tale in the trappings of an exotic setting made the story both accessible and fresh, contributing greatly to its popularity.&lt;/p&gt;
+			&lt;p&gt;The story went on to inspire Romantic writers, including Lord Byron, Southey, Moore, and &lt;a href="https://standardebooks.org/ebooks/john-keats"&gt;Keats&lt;/a&gt;; &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt;, and Clark Ashton Smith were also influenced by &lt;i&gt;Vathek&lt;/i&gt;’s decadent and fantastic style.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42401</dc:source>
 		<dc:source>https://books.google.com/books?id=kkjxuRC6UpgC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">36096</meta>
+		<meta property="se:reading-ease.flesch">52.53</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Vathek</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-beckford_vathek_samuel-henley</meta>
 		<dc:creator id="author">William Beckford</dc:creator>
