@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Vathek: An Arabian Tale</dc:title>
 		<meta property="file-as" refines="#fulltitle">Vathek</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Gothic fiction</dc:subject>
 		<dc:subject id="subject-3">Arab countries -- Fiction</dc:subject>
