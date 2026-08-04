@@ -50,7 +50,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008107185</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:abstract>A powerful caliph embarks on a quest to harness the powers of darkness.</dc:abstract>
+		<meta property="schema:abstract">A powerful caliph embarks on a quest to harness the powers of darkness.</meta>
 		<dc:description>
 			&lt;p&gt;The titular Vathek is a powerful caliph who, though intelligent and capable, has a tendency to indulge in sensuality. A mysterious traveler arrives in his kingdom and mesmerizes Vathek with a promise of dark powers and hedonism beyond imagination. Vathek becomes obsessed with the supernatural possibilities, and, goaded on by his power-hungry mother, embarks on a journey of blasphemy and debauchery.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Vathek&lt;/i&gt; is one of the best-known Gothic novels, frequently referenced in literature of the era and beyond. &lt;a href="https://standardebooks.org/ebooks/william-beckford"&gt;Beckford&lt;/a&gt;, an English novelist, wrote it in French over the course of just several days at the age of twenty-one, after having hosted a three-day-long party in a lavish Orientalist style. European culture at the time was delighting in Orientalism, and Beckford capitalized on this by merging a fashionable Gothic narrative with a lush Orientalist setting. The novel’s emphasis on the supernatural and on the horror of ghosts, ghouls, efreets, and djinns, was something still new to many contemporary readers; and couching a familiar morality tale in the trappings of an exotic setting made the story both accessible and fresh, contributing greatly to its popularity.&lt;/p&gt;
