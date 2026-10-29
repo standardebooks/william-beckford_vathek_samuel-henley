@@ -82,6 +82,8 @@
 		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Vasily Vereshchagin</dc:contributor>
 		<meta property="file-as" refines="#artist">Vereshchagin, Vasily</meta>
+		<meta property="schema:alternateName" refines="#artist">Vasily Vasilyevich Vereshchagin</meta>
+		<meta property="alternate-script" refines="#artist">Василий Васильевич Верещагин</meta>
 		<link href="https://en.wikipedia.org/wiki/Vasily_Vereshchagin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83148933.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
